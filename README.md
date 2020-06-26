@@ -13,3 +13,4 @@ git init
 ## Initialized empty Git repository in /Users/sean/my-first-repo/.git/
 
 echo "Welcome to My First Repo" > readme.txt
+git status
